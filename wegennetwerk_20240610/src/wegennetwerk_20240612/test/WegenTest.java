@@ -1,4 +1,4 @@
-package testwegen;
+package wegennetwerk_20240612.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
